@@ -61,7 +61,7 @@ Minimiza el daño y restaura el sistema después de que el incidente ocurrió.
 
 **Deterrent** (Disuasivo)
 Desanima al atacante antes de que actúe, sin bloquearlo directamente.
-> 🎮 Un campeón tanque con 5,000 HP visible en el mapa — el enemigo lo evalúa y decide no hacer engage porque el riesgo es demasiado alto.
+> 🎮 En el equipo enemigo hay campeón tanque con 5,000 HP visible en el mapa, tu jhin aliado tiene armado coleccionista. Lo evalúas y decides no hacer engage porque sabes que esa TF es perder el tiempo.
 > 💻 Un cartel de "sistema monitorizado 24/7 — toda actividad queda registrada" en la pantalla de login — reduce intentos de acceso no autorizado sin bloquear nada técnicamente.
 
 **Compensating** (Compensatorio)
