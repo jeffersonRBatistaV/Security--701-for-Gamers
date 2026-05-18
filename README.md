@@ -288,7 +288,9 @@ Una tecnica que utilizan los routers y firewalls para traducir IPs locales a una
 
 **SIEM** (Security Information and Event Management — Gestión de información y eventos de seguridad)
 Centraliza logs de toda la red, detecta patrones y genera alertas de seguridad.
-> 🎮 Caitlyn con trampas por todo el mapa + ulti que revela a todos los enemigos — cobertura total y visión global.
+
+> 🎮 El conjunto de herramientas en un solo lugar que te permite ver lo que sucede en eñ juego en tiempo real y poder atender a las calls. Mapa, Chat, Señales.
+
 > 💻 Splunk correlacionando logs de firewall, AD, endpoints y proxies — detecta que el mismo usuario falló login 50 veces en 2 minutos desde una IP en Rusia y dispara una alerta crítica.
 
 **SOAR** (Security Orchestration, Automation and Response — Orquestación, automatización y respuesta de seguridad)
