@@ -41,7 +41,7 @@ La curva del olvido de Ebbinghaus: sin repaso activo, pierdes el 70% del conteni
 
 ## 📊 SECCIÓN 1 — CIA TRIAD: LAS TRES ESTADÍSTICAS BASE
 
-> 🧠 **Mnemónica:** CIA protege. DAD destruye. Uno a uno, pillar a pillar.
+> 🧠 **Mnemónica:** CIA protege. DAD destruye. 1vs1.
 
 **Confidentiality** (Confidencialidad)
 Solo quien debe ver la información, la ve. Nadie más.
