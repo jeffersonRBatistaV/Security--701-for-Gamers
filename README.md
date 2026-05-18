@@ -1,4 +1,4 @@
-# 🔐 SECURITY+ 701 — (RIFT EDITION)
+# 🔐 SECURITY+ 701 — (Edicion Grieta del invocador)
 
 > Estructura: **Siglas (palabras completas)** → Descripción exacta y sencilla → 🎮 Ejemplo de videojuegos → 💻 Ejemplo de ciberseguridad / IT real
 
