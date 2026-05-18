@@ -280,6 +280,12 @@ Verifica que un dispositivo cumple requisitos de seguridad antes de dejarlo entr
 > 🎮 El anti-cheat al iniciar partida — si no cumples los requisitos, el sistema no te deja entrar.
 > 💻 Cisco ISE verificando antes de dar acceso a la LAN corporativa — si el equipo no tiene antivirus actualizado, parches al día y certificado de dominio, lo manda a una VLAN (Virtual Local Area Network — segmentación lógica de redes) de cuarentena.
 
+**NAT** (Network Address Traslation)
+Una tecnica que utilizan los routers y firewalls para traducir IPs locales a una o varias IPs publicas.
+>🎮 ​En una gaming house donde varios jugadores comparten la misma conexión, el router utiliza NAT para asignar a cada miembro del equipo un puerto único bajo una sola dirección IP pública. Cuando el servidor de Riot Games responde con los datos de la partida, el router lee ese puerto específico para saber a qué jugador (como el Mid o el ADC) debe entregarle la información. Esto permite que todos jueguen simultáneamente de forma independiente sin que sus conexiones se mezclen o sufran desconexiones.
+>​💻 ​Cuando una PC local envía un paquete de datos, el router reemplaza su IP privada por la IP pública de la red y registra esta equivalencia en una tabla de traducción junto con un puerto aleatorio. Al recibir la respuesta del servidor externo (como Google), el router consulta dicha tabla para identificar a qué puerto llegó el paquete de vuelta. Finalmente, el dispositivo reescribe la dirección de destino original y le entrega los datos de forma transparente a la computadora que los solicitó.
+
+
 **SIEM** (Security Information and Event Management — Gestión de información y eventos de seguridad)
 Centraliza logs de toda la red, detecta patrones y genera alertas de seguridad.
 > 🎮 Caitlyn con trampas por todo el mapa + ulti que revela a todos los enemigos — cobertura total y visión global.
@@ -306,7 +312,6 @@ Lista de reglas ordenadas que permiten o deniegan tráfico. Se procesan de arrib
 > 💻 Una ACL en un switch que permite tráfico del VLAN 10 al servidor de archivos en el puerto 445, deniega todo lo demás, y procesa las reglas de arriba a abajo hasta encontrar un match.
 
 **DNS** (Domain Name System)
----
 Funciona como la agenda telefonica de Internet. Su funcion principal es traducir los nombres de las paginas web que escribimos (google.com[ <-- Un dominio]) en direcciones IP numericas como (142.250.190.46) que son las computadoras
 ## 🔐 IAM — ROLES Y PERMISOS
 
